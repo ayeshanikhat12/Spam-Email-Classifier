@@ -14,7 +14,7 @@ The **Spam Email Classifier** is a Machine Learning project that predicts whethe
 
 The project includes data exploration, text vectorization, model training and evaluation, a terminal-based prediction program, and an interactive web application built using Streamlit.
 
-**GitHub Link:** 
+**GitHub Link:** https://github.com/ayeshanikhat12/Spam-Email-Classifier
 
 ## 2. Project Objectives
 
