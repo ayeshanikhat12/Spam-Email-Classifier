@@ -150,7 +150,7 @@ The Spam Email Classifier demonstrates how Machine Learning and Natural Language
 ## Streamlit Web Application
 Displays the interactive interface used to enter email text and view prediction results.
 ### 1. Ham Email Prediction
-![Ham Email Prediction](images/ham_output.png)
+![Ham Email Prediction](https://github.com/ayeshanikhat12/Spam-Email-Classifier/blob/114ac184147194990bf0e8be4d831864c8eb4573/2026-10-27%20(2).png)
 
 ### 2. Spam Email Prediction
 ![Spam Output](images/spam_output.png)
