@@ -14,7 +14,7 @@ The **Spam Email Classifier** is a Machine Learning project that predicts whethe
 
 The project includes data exploration, text vectorization, model training and evaluation, a terminal-based prediction program, and an interactive web application built using Streamlit.
 
-**GitHub Link:** Add your repository link here.
+**GitHub Link:** 
 
 ## 2. Project Objectives
 
@@ -146,3 +146,20 @@ Open the local URL displayed in the terminal to use the web application.
 ## 11. Conclusion
 
 The Spam Email Classifier demonstrates how Machine Learning and Natural Language Processing can be used to automate email classification. By combining TF-IDF vectorization, Multinomial Naive Bayes, and Streamlit, the project provides a practical example of building, evaluating, and using a text classification model.
+
+## Streamlit Web Application
+Displays the interactive interface used to enter email text and view prediction results.
+### 1. Ham Email Prediction
+![Ham Email Prediction](images/ham_output.png)
+
+### 2. Spam Email Prediction
+![Spam Output](images/spam_output.png)
+
+Displays the interactive interface used to enter email text and view prediction results.
+
+## 👩‍💻 Author
+
+**Ayesha Nikhat**
+
+- GitHub: https://github.com/ayeshanikhat12
+- LinkedIn: [https://www.linkedin.com/in/ayesha-nikhat-12a4aa305/](https://www.linkedin.com/in/ayesha-nikhat-12a4aa305/)
