@@ -153,7 +153,7 @@ Displays the interactive interface used to enter email text and view prediction 
 ![Ham Email Prediction](https://github.com/ayeshanikhat12/Spam-Email-Classifier/blob/cdce3a209b78e939e5ef63590630d74e8964d709/ham.png)
 
 ### 2. Spam Email Prediction
-![Spam Output](images/spam_output.png)
+![Spam Output](https://github.com/ayeshanikhat12/Spam-Email-Classifier/blob/b3bc1da2ff41b32a32b9ee69f74a307f80bba6a4/spam.png)
 
 
 ## 👩‍💻 Author
